@@ -13,4 +13,7 @@ I'm beigeshibe! That teen with some big dreams!
 
 - :muscle:  Currently creating a RPG game with UE4!
 - 🕶️:  Very epic 3D modeler 
-- ✊ Not perfect, but I hope to be
+- ✊ Not perfect, but I hope to be!
+  
+  ## Interests
+  ![C++](https://img.icons8.com/color/344/c-plus-plus-logo.png) 
