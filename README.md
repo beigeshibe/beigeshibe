@@ -15,5 +15,13 @@ I'm beigeshibe! That teen with some big dreams!
 - 🕶️:  Very epic 3D modeler 
 - ✊ Not perfect, but I hope to be!
   
-  ## Interests
- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+# Interests
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+
+# Activities
+<a style="text-decoration: none;" href="https://www.instagram.com/beigeshibe/">
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=beigeshibe&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+</a>
+<a href="https://www.instagram.com/beigeshibe/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beigeshibe&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+</a>
