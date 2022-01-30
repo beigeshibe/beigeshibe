@@ -17,7 +17,8 @@ I'm beigeshibe! That teen with some big dreams!
 - ✊ Not perfect, but I hope to be!
   
 # Interests
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Python](https://img.icons8.com/color/48/000000/python--v1.png) 
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Python](https://img.icons8.com/color/48/000000/python--v1.png) ![Go](https://img.icons8.com/color/48/000000/golang.png) 
+
 
 # Activities
 <a style="text-decoration: none;" href="https://www.instagram.com/beigeshibe/">
