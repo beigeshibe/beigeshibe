@@ -6,3 +6,11 @@
   <a href="https://discord.gg/sv7sf3J3uD"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   
 <p>
+
+# Hey there!
+
+I'm beigeshibe! That teen with some big dreams!
+
+- :muscle:  Currently creating a RPG game with UE4!
+- 🕶️:  Very epic 3D modeler 
+- ✊ Not perfect, but I hope to be
