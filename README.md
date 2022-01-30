@@ -25,3 +25,9 @@ I'm beigeshibe! That teen with some big dreams!
 <a href="https://www.instagram.com/beigeshibe/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beigeshibe&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
+
+---
+  
+<p align='center'>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=beigeshibe" alt="visitor badge"/>
+</p>
