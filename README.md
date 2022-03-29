@@ -12,7 +12,7 @@
 
 I'm beigeshibe! That teen with some big dreams!
 
-- :muscle:  Currently creating a RPG game with Unity!
+- :muscle:  Creating a startup!
 - 🕶️:  Very epic 3D modeler 
 - ✊ Not perfect, but I hope to be!
   
