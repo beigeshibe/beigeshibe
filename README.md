@@ -12,7 +12,7 @@
 
 I'm beigeshibe! That teen with some big dreams!
 
-- :muscle:  Creating a startup!
+- :muscle:  Slowly making a video game with UE5!
 - 🕶️:  Very epic 3D modeler 
 - ✊ Not perfect, but I hope to be!
   
