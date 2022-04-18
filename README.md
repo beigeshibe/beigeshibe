@@ -17,7 +17,7 @@ I'm beigeshibe! That teen with some big dreams!
 - ✊ Not perfect, but I hope to be!
   
 # Interests
-![C#](https://img.icons8.com/color/344/c-sharp-logo-2.png)
+![C#](https://img.icons8.com/color/48/000000/c-sharp-logo-2.png)
 
 
 # Activities
