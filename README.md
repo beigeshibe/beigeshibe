@@ -17,7 +17,7 @@ I'm beigeshibe! That teen with some big dreams!
 - ✊ Not perfect, but I hope to be!
   
 # Interests
-![C#](https://img.icons8.com/color/48/000000/c-sharp-logo-2.png)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
 # Activities
