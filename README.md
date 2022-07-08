@@ -19,7 +19,7 @@
 
 ### Get intouch with me!
 <p align="center">
-    <a href="https://instagram.com/beigeshibe"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>    
+    <a href="https://instagram.com/beigeshibe"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ### Github Stats
