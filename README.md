@@ -26,5 +26,5 @@
 ### Github Stats
 <p align="center">
     <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=beigeshibe&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimX32&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beigeshibe&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </p>
